@@ -3,7 +3,6 @@ import './App.css';
 import Header from './Header/Header';
 import SearchBox from './SearchBox/SearchBox';
 import ResultContainer from './ResultContainer/ResultContainer';
-import Cards from './Cards/Cards';
 
 const name = require('@rstacruz/startup-name-generator');
 
